@@ -23,6 +23,10 @@
     "branch": "main",
     "commit": "7c4faa3540d0781a28588cafbd4dd187a28ac6e3"
   },
+  "lualine.nvim": {
+    "branch": "master",
+    "commit": "47f91c416daef12db467145e16bed5bbfe00add8"
+  },
   "neogit": {
     "branch": "master",
     "commit": "7073f3aafc9030d457838995106784a9d1873b3b"
