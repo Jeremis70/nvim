@@ -15,3 +15,5 @@ opt.termguicolors = true
 opt.signcolumn = "yes"
 
 opt.updatetime = 250
+
+vim.g.mapleader = " "
